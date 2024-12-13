@@ -13,3 +13,7 @@ Video Link:
 
 Final project code:
 [Final project](https://github.com/BigData-saturdayT2/LearningAssistant)
+
+deployed application: 
+- Deployed FastAPI: [FastAPI Docs](http://3.14.131.176:8000/docs)  
+- Deployed Streamlit: [Streamlit App](http://3.14.131.176:8501/)  
